@@ -1,2 +1,2 @@
-My first login page
+My first login page,
 Heavily inspired by a design
